@@ -7,4 +7,4 @@ Console-based python Calculator supporting basic arithmetic operations, input va
 -  Division (with zero handling)
 
 # Output
-![Output](simple-calculator-output.jpg)
+![Output](Simple-calculator-output.jpg)
