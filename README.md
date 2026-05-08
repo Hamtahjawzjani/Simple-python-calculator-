@@ -1,11 +1,10 @@
-## Simple-python-calculator-
+# Simple-python-calculator-
 Console-based python Calculator supporting basic arithmetic operations, input validation, and loop-based interaction.
-## Features 
+# Features 
 -  Addition
 -  Subtraction
 -  Multiplication
 -  Division (with zero handling)
 
-## Output
-
-![Calculator Output](simple-calculator-output.jpg)
+# Output
+![Output](simple-calculator-output.jpg)
